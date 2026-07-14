@@ -1,0 +1,25 @@
+{
+  "name": "devops_test1",
+  "version": "1.0.0",
+  "description": "simple node app for devops testing",
+  "homepage": "https://github.com/edisonnmnn/devops_test1#readme",
+  "bugs": {
+    "url": "https://github.com/edisonnmnn/devops_test1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edisonnmnn/devops_test1.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}

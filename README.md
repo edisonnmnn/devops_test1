@@ -10,6 +10,8 @@ Technologies and other ideas I am aiming to incorporate:
 - Docker (*Dockerfiles* are the main thing to get good at, Docker Compose)
 - Kubernetes (kubectl, minikube, overall understanding)
 - Redis (bullmq, caching, etc.)
+- NGINX (webservers, servers in general)
 - Deployment (pods, containers, base images/images, etc.)
 - Possibly use AWS
 - Learn devops and fundamental ideas along the way
+- Understand how techonologies connect with each other (e.g. Pods, Services, nginx, etc.)
